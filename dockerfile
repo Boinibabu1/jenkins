@@ -1,0 +1,5 @@
+FROM ubuntu
+EXPOSE 80
+MAINTAINER BABU
+LABEL this is my file
+COPY . .
